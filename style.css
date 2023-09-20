@@ -1,0 +1,23 @@
+.container {
+  margin: 10px;
+  padding: 20px;
+  background-color: rgb(234, 208, 208);
+}
+.container img {
+  border-radius: 30px;
+}
+.container ul li {
+  list-style-type: disc;
+}
+.container h1 {
+  float: right;
+}
+.container h4 {
+  float: right;
+  padding-top: 185px;
+  padding-right: 1px;
+}
+h1 {
+  padding-right: 250px;
+  padding-top: 150px;
+}
